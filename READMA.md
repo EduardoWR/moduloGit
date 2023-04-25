@@ -1,3 +1,2 @@
-Primeiro projeto no GIT
-
-ALteração do sistema
+Primeiro projeto no GIT alterado e atualizado
+VER o que foi alterado
